@@ -119,8 +119,22 @@ Current work focuses on:
 - Noise and repeatability testing
 - Wider operating-condition variation
 - Robustness before any second-stage intervention
+- 
 
 ---
+## Results
+
+### Controlled Pressure Response
+![Controlled Pressure](results/gru_controlled_pressure.png)
+
+### FCV Action
+![FCV Action](results/gru_controlled_fcv_action.png)
+
+### Feed Flow Response
+![Feed Flow](results/gru_controlled_feed_flow.png)
+
+### Prediction vs Actual
+![Prediction vs Actual](results/gru_controlled_prediction_vs_actual.png)
 
 ## Safety Note
 
